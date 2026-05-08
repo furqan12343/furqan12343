@@ -1,45 +1,34 @@
 <h1 align="center">Hi 👋, I'm Furqan Haider</h1>
-<h3 align="center">Cyber Security Student | Malware Analyst | Digital Forensics Enthusiast | AI & Software Developer</h3>
-
-<p align="center">
-  <a href="https://github.com/furqan12343">
-    <img src="https://img.shields.io/github/followers/furqan12343?label=Followers&style=social" />
-  </a>
-</p>
+<h3 align="center">Cyber Security Student | Malware Analysis Enthusiast | Digital Forensics Researcher</h3>
 
 ---
 
 # 💫 About Me
 
-🎓 BS Cyber Security Student at FAST-NUCES Islamabad  
-🔐 Passionate about Cyber Security, Malware Analysis, Digital Forensics, and Secure Software Development  
-🧠 Strong interest in AI, Computer Vision, Reverse Engineering, and Threat Detection  
-⚡ Focused on building practical security tools and real-world defensive systems  
-🛠️ Love working with low-level programming, forensic analysis, and security research  
+I am a 6th semester Cyber Security student at FAST-NUCES Islamabad with a strong passion for cyber security, malware analysis, digital forensics, and secure software development. I enjoy exploring how systems work internally, analyzing security threats, and developing practical solutions that improve digital security. My interests also extend into artificial intelligence, reverse engineering, network security, and low-level programming.  
+
+I am constantly learning and improving my technical skills through hands-on projects, research, labs, and security-focused development. I enjoy working in challenging environments that require problem-solving, analytical thinking, and creativity. My goal is to grow as a cyber security professional while contributing to innovative and impactful technologies.
 
 ---
 
-# 🚀 Cyber Security Interests
+# 🔐 Areas of Interest
 
 - Malware Analysis
-- Static & Dynamic Analysis
 - Digital Forensics
 - Memory Forensics
-- Web Security
 - Network Security
-- Threat Hunting
-- MITRE ATT&CK
-- Secure Software Development
 - Reverse Engineering
+- Threat Detection
+- Web Security
+- AI in Cyber Security
+- Secure Software Development
 - Incident Response
-- Data Loss Prevention
-- Linux & Windows Security
 
 ---
 
 # 🛠️ Technical Skills
 
-## Programming Languages
+### Languages
 - Python
 - C++
 - C
@@ -47,23 +36,23 @@
 - Assembly Language
 - JavaScript
 
-## Security & Forensics
-- Malware Analysis
+### Security & Forensics
+- Static Malware Analysis
+- Dynamic Malware Analysis
+- Digital Forensics
 - Memory Analysis
-- NTFS Forensics
-- Web Security
-- Network Security
 - Tor Forensics
-- Static & Dynamic Analysis
+- Network Security
+- Web Security
 
-## Frameworks & Development
+### Frameworks & Technologies
 - React
-- FastAPI
 - Flask
+- FastAPI
 - SFML
 - PySide6
 
-## Tools & Platforms
+### Tools
 - IDA Pro
 - FTK Imager
 - Autopsy
@@ -74,65 +63,10 @@
 - Aircrack-ng
 - Git & GitHub
 - WinPrefetchView
-- Linux & Windows
 
----
-
-# 🔥 Featured Cyber Security Projects
-
-## 🔐 Secure Legal Document Exchange Portal
-**Tech Stack:** FastAPI, React, AES-256, JWT
-
-- Built a secure legal file exchange platform with AES-256-GCM encryption
-- Implemented Role-Based Access Control (RBAC)
-- Developed malware scanning and tamper-proof audit logging
-- Designed secure file handling mechanisms to prevent unauthorized access
-
----
-
-## 🛡️ Hash-Based Data Loss Prevention (DLP) System
-**Tech Stack:** Python, Flask, Cryptography
-
-- Developed a real-time DLP solution using SHA3-256 and SimHash
-- Detected modified sensitive files using Hamming Distance logic
-- Prevented unauthorized data exfiltration without storing raw files
-- Engineered secure fingerprint-based monitoring system
-
----
-
-## 🤖 AutoML Malware Classification Framework
-**Tech Stack:** TensorFlow, PyTorch, DARTS
-
-- Created an AutoML pipeline for malware classification
-- Implemented Neural Architecture Search (NAS)
-- Improved malware detection performance in noisy environments
-- Conducted static PE malware analysis with enhanced detection accuracy
-
----
-
-## 💽 NTFS Master File Table (MFT) Forensic Recovery Tool
-**Tech Stack:** Python, PySide6, Raw Disk I/O
-
-- Developed an enterprise-grade forensic recovery utility
-- Parsed raw disk hex data from physical drives and forensic images
-- Implemented partition traversal and signature-based file carving
-- Generated automated forensic reports for chain-of-custody documentation
-
----
-
-# 🎮 Additional Software Projects
-
-## 👾 Pac-Man Game in Assembly Language
-- Developed a fully functional Pac-Man game using Assembly Language
-- Implemented ghost AI, collision detection, scoring system, and optimized memory handling
-
-## 🕹️ Xonix Game Implementation
-- Built a real-time arcade game using C++ and SFML
-- Designed flood-fill algorithms and dynamic collision systems
-
-## 🎲 Gameboy Integrated System
-- Integrated multiple games into a unified desktop GUI system
-- Built reusable middleware systems and leaderboard functionality
+### Operating Systems
+- Linux
+- Windows
 
 ---
 
@@ -140,26 +74,33 @@
 
 - Belkasoft Forensics
 - Certified Cybersecurity Educator Professional (CCEP)
-- The Absolute Guide to MITRE ATT&CK
+- The Absolute Guide To MITRE ATT&CK
 
 ---
 
-# 🌱 Currently Learning
+# 🎓 Education
 
-- Advanced Malware Analysis
-- Threat Intelligence
-- AI-Powered Cyber Defense
-- Reverse Engineering
-- Security Automation
+### Bachelor of Science in Cyber Security  
+FAST-NUCES Islamabad  
+2023 - 2027
 
+---
 
-# 🌐 Connect With Me
+# 🌍 Languages
+
+- English
+- Urdu
+- Punjabi
+
+---
+
+# 📫 Connect With Me
 
 📧 Email: furqanh375@gmail.com  
-💻 GitHub: https://github.com/furqan12343  
+💻 GitHub: https://github.com/furqan12343
 
 ---
 
-# ⚡ Motto
+# ⚡ Quote
 
-> "Cyber Security is not just about defense — it is about understanding how systems break, so they can be built stronger."
+> "Cyber Security is about understanding systems deeply enough to protect them effectively."
